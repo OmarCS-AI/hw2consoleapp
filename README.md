@@ -58,5 +58,13 @@ java -cp .:junit-5.8.1.jar HW2Tests
 5. **Answer Questions**: Provide answers to existing questions.
 6. **Edit/Delete Answers**: Modify or remove your own answers.
 
+## Test Credentials
+student1
+password
+
+admin 
+adminpass
+
+
 ## Authors
 - **Omar Abuhamous** 
